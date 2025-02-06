@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Facebook Marketplace Uploader",
+  "version": "1.0",
+  "description": "Upload products to French Facebook Marketplace.",
+  "permissions": ["activeTab", "storage", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
